@@ -2,7 +2,7 @@
 
 
 - 📍 Living in India
-- I work as a **full-stack web developer** specializing in creating **efficient, data-driven applications** with a strong focus on **backend performance**. Mostly using **React.js, TypeScript, Golang, and Node.js**.
+- I work as a **full-stack web developer**, mainly using **React.js, TypeScript, and Node.js**, and I’m currently **learning Golang** to enhance my backend skills.
 - **Interested in web technologies**, optimization, and contributing to open-source projects.
 - General inquiries can be sent to **devsangwan.1124@gmail.com**.
 
