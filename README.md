@@ -13,7 +13,7 @@
 
 **Socials**
 
-[Twitter/11_devvv](https://x.com/11_devvv) &bullet; [LinkedIn/divy-sangwan](https://www.linkedin.com/in/divy-sangwan/) &bullet; [Instagram/11_devvv](https://www.instagram.com/11_devvv/) &bullet; [Discord/11_spectre](https://discord.com/users/11_spectre) 
+&bullet; [LinkedIn/divy-sangwan](https://www.linkedin.com/in/divy-sangwan/) &bullet; [Discord/11_spectre](https://discord.com/users/11_spectre)   &bullet; [Instagram/11_devvv](https://www.instagram.com/11_devvv/) &bullet; [Twitter/11_devvv](https://x.com/11_devvv) 
 
 **Languages and Tools**
 <p>
