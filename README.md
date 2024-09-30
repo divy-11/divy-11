@@ -13,7 +13,7 @@
 
 **Technical Skills**
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,go,cpp,nodejs,express,mongodb,postgres,prisma,tailwindcss,bootstrap,html,css,bash,cloudflare,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,nextjs,react,nodejs,express,mongodb,docker,postgres,prisma,redux,tailwindcss,kubernetes,bootstrap,materialui,css,html,bash,cloudflare,workers,git,npm,postman,figma" />
 </p>
 
 **Socials**
