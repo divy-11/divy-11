@@ -13,15 +13,18 @@
 
 **Technical Skills**
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,go,cpp,nodejs,express,mongodb,postgres,prisma,tailwindcss,bootstrap,html,css,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,go,cpp,nodejs,express,mongodb,postgres,prisma,tailwindcss,bootstrap,html,css,bash,cloudflare,vscode" />
 </p>
 
 **Socials**
 <p>
-<a href="https://github.com/divy-11">
+<a href="https://github.com/divy-11" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://www.linkedin.com/in/divy-sangwan">
+<a href="https://www.linkedin.com/in/divy-sangwan" style="margin-right: 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://discord.com/users/11_spectre">
+    <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 </p>
