@@ -8,8 +8,8 @@
 
 **Projects**
 
-- **[Medium Blogging Website](https://github.com/divy-11/Medium)** – Created a web application enabling writers to publish and share articles. Implemented a secure and efficient backend using TypeScript, PostgreSQL, Prisma, and Hono, reducing query response time by 40%.
-- **[Data-Driven Fertilizer Recommendation System](https://github.com/divy-11/Fertilizer-Recommendation-System)** – Built a personalized recommendation system for farmers, improving recommendation accuracy by 25%. Developed using React.js, Node.js, Express.js, and MongoDB.
+- **[Blogging Website](https://github.com/divy-11/Medium)** – Created a web application enabling writers to publish and share articles. Implemented a secure and efficient backend using TypeScript, PostgreSQL, Prisma, and Hono, reducing query response time by 40%.
+- **[Krishi Sakha](https://github.com/divy-11/Fertilizer-Recommendation-System)** – Built a personalized recommendation system for farmers, improving recommendation accuracy by 25%. Developed using React.js, Node.js, Express.js, and MongoDB.
 
 **Socials**
 
