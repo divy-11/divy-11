@@ -17,5 +17,5 @@
 
 **Languages and Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,nextjs,react,nodejs,express,mongodb,docker,postgres,prisma,redux,tailwindcss,bootstrap,materialui,css,html,bash,cloudflare,workers,git,npm,postman,github,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,nextjs,react,nodejs,express,mongodb,docker,kubernetes,postgres,prisma,redux,tailwindcss,bootstrap,materialui,css,html,bash,cloudflare,workers,git,npm,postman,github,figma" />
 </p>
