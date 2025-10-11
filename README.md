@@ -4,7 +4,13 @@
 - 📍 Living in India
 - I work as a **full-stack web developer**, mainly using **React.js, TypeScript, and Node.js**, and I’m currently **learning Golang** to enhance my backend skills.
 - **Interested in web technologies**, optimization, and contributing to open-source projects.
+- Wanna catch-up? Schedule a meet with me at [cal.com/divy-sangwan](https://cal.com/divy-sangwan)
 - General inquiries can be sent to **divy.sangwan.176@gmail.com**.
+
+**Work experience**
+
+- Software Engineer Intern at [FlairX](https://www.flairx.ai/). Developed AI-powered Questionnaire Generation and Interview Management modules.
+- Web Developer Intern at [Decube Innovation Labs](https://www.decubelabs.com/). Built core admin modules for Skia Coffee’s management platform.
 
 **Projects**
 
