@@ -2,7 +2,7 @@
 
 
 - 📍 Living in India
-- I work as a **full-stack web developer**, mainly using **React.js, TypeScript, and Node.js**, and I’m currently **learning Golang** to enhance my backend skills.
+- I work as a **full-stack web developer**, mainly using **React.js, TypeScript, and Node.js**.
 - **Interested in web technologies**, optimization, and contributing to open-source projects.
 - Wanna catch-up? Schedule a meet with me at [cal.com/divy-sangwan](https://cal.com/divy-sangwan)
 - General inquiries can be sent to **divy.sangwan.176@gmail.com**.
